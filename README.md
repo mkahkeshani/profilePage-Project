@@ -1,6 +1,6 @@
 # profile_project_one
 
-A new Flutter project.
+A new Flutter project. This is my first Flutter project that I wrote in 2022. This is a simple one-page project in which dependency injection and state management are not used, and I have only used Flutter's main widgets in it. One of the cool features of this project is the use of multiple languages in Flutter, which I implemented in Farsi and English, along with the beautiful Farsi Ykan font.
 
 ## Getting Started
 
