@@ -1,0 +1,18 @@
+{
+    "profileTitle": "My Profile",
+    "name": "Mohammad Kahkeshani",
+    "job": "Flutter Developer",
+    "location": "Frankfurt, Germany",
+    "summary": "Hello Guys,My name is Mohammad Kahkeshani. I love programmin and I am a flutter Developer, becouse I like Writing I have made a webstite that is flutterpersian.com. If you want to know aboute my expriance you can google it to finde more aboute me",
+    "skill": "Skills",
+    "info": "Personal Information",
+    "language1":"English",
+    "language2":"persian",
+    "select":"select language",
+    "emali":"Email",
+    "pass":"Password",
+    "saveInfo":"Save"
+
+    
+   
+  }
